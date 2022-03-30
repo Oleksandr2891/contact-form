@@ -3,11 +3,8 @@ import { ButtonWrapper } from "./buttonStyled";
 const Button = ({
   onHandleClick,
   textButton,
-  //   icon = "add",
   classBtn = "add",
   type = "button",
-
-  //   background = "",
 }) => {
   return (
     <ButtonWrapper>

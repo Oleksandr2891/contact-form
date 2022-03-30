@@ -13,10 +13,4 @@ export const BottomContainerStyled = styled.div`
     flex-direction: column;
     align-items: center;
   }
-
-  /* @media screen and (min-width: 768px) {
-    display: flex;
-    flex-direction: column;
-    margin: 0px 100px 50px;
-  } */
 `;

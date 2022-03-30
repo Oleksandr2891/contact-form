@@ -26,8 +26,6 @@ const initialState = {
 };
 
 const AuthForm = () => {
-  //   const dispatch = useDispatch();
-
   const onHandleSubmit = ({
     firstName,
     secondName,
