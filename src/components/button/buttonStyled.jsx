@@ -37,7 +37,7 @@ export const ButtonWrapper = styled.div`
     bottom: 0;
     left: 0;
     border-right: 50px solid transparent;
-    border-top: 50px solid #363b5d;
+    border-top: 50px solid #2d6b9f;
     transition: transform 0.5s;
     transform: translateX(-100%);
     z-index: -1;
